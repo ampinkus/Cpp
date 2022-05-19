@@ -1,6 +1,6 @@
 // Ejercicio 1
 // Implementar un ordenamiento por metodo de burbuja version linux
-// nuevo cambio para prueba Git
+// otro cambio para git
 
 #include <iostream>
 #include <cstdlib>
