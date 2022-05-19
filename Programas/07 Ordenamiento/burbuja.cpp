@@ -1,5 +1,6 @@
 // Ejercicio 1
-// Implementar un ordenamiento por metodo de burbuja
+// Implementar un ordenamiento por metodo de burbuja version linux
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
