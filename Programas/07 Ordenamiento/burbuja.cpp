@@ -9,7 +9,7 @@ using namespace std;
 int main(void)
 {
 
-    int arreglo[2000]; // arreglo para ordenar
+    int arreglo[1000]; // arreglo para ordenar
     int i ; // auxiliar
     int n; // tamaño del arreglo
     int auxiliar;
