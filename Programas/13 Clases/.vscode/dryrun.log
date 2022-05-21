@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'g:/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/13 Clases'
+g++  -Wall -pedantic -Wextra -Wshadow -Wconversion -std=c++17  ejercicio3.cpp  -o ejercicio3 
+make: Leaving directory 'g:/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/13 Clases'
+ 

@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu May 19 21:42:09 2022
+# Make data base, printed on Thu May 19 22:39:39 2022
 
 # Variables
 
@@ -23,9 +23,9 @@ USERPROFILE = C:\Users\ampin
 # environment
 LOCALAPPDATA = C:\Users\ampin\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-25581546-cc4f-4f30-a929-4a47895e1aad-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-38a95cf0-9664-4abd-a179-87fff71caa0e-sock
 # environment
-VSCODE_CWD = G:\Fundamentos de Programaci�n - Aprende a programar desde cero\Diapositivas del curso\13 Aprende Programaci�n en C++\Programas\09 Cadenas
+VSCODE_CWD = C:\Users\ampin\AppData\Local\Programs\Microsoft VS Code
 # environment
 SYSTEMROOT = C:\Windows
 # environment
@@ -37,7 +37,7 @@ MAKE_COMMAND := make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_2532_ZSORORSFDYSQWGXW
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1128_XTSGMCYZUNUACNXA
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -91,7 +91,7 @@ MAKEFILE_LIST := makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 2532
+VSCODE_PID = 1128
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -200,10 +200,6 @@ SUFFIXES :=
 ALLUSERSPROFILE = C:\ProgramData
 # environment
 SESSIONNAME = Console
-# environment
-VSCODE_CLI = 1
-# environment
-ELECTRON_NO_ATTACH_CONSOLE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
 # environment
@@ -211,7 +207,7 @@ PROCESSOR_REVISION = 8c01
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 # variable set hash-table stats:
-# Load=99/1024=10%, Rehash=0, Collisions=9/126=7%
+# Load=97/1024=9%, Rehash=0, Collisions=9/124=7%
 
 # Pattern-specific Variable Values
 
@@ -219,9 +215,9 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 
 # Directories
 
-# . (key g:/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/09 Cadenas, mtime 1652983514): 13 files, no impossibilities.
+# . (key g:/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/09 Cadenas, mtime 1652983514): 14 files, no impossibilities.
 
-# 13 files, no impossibilities in 1 directories.
+# 14 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -264,12 +260,12 @@ makefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 17 / storage = 181 B / avg = 10 B
-# current buf: size = 8162 B / used = 181 B / count = 17 / avg = 10 B
+# strcache buffers: 1 (0) / strings = 18 / storage = 196 B / avg = 10 B
+# current buf: size = 8162 B / used = 196 B / count = 18 / avg = 10 B
 
-# strcache performance: lookups = 22 / hit rate = 22%
+# strcache performance: lookups = 23 / hit rate = 21%
 # hash-table stats:
-# Load=17/8192=0%, Rehash=0, Collisions=0/22=0%
-# Finished Make data base on Thu May 19 21:42:09 2022
+# Load=18/8192=0%, Rehash=0, Collisions=0/23=0%
+# Finished Make data base on Thu May 19 22:39:39 2022
 
  
