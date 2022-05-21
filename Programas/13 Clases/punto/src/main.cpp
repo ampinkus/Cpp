@@ -12,9 +12,6 @@ int main(void)
 	cout << "El valor de x1 es: " << punto1.getX() << endl;
 	cout << "El valor de y1 es: " << punto1.getY() << endl;
 
-	// probamos modificar la coordenada x de Punto1 fuera del método, si ejecutamos el programa no va cambiar su valor!
-		// punto1.x = 10;
-
 	// creamos una instancia del objeto Punto de forma dinamica con el cosntructor1. 
 	Punto *punto2 = new  Punto();  // Al ser dinamico se crea con un puntero y se guarda en el heap
 	cout << "El valor inicial de x2 es: " << punto2 -> getX() << endl;

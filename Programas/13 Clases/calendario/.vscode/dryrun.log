@@ -1,0 +1,11 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'e:/Documents/Senioritty/Programacion/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/13 Clases/calendario'
+ 
+mkdir output
+g++ -Wall -Wextra  -pedantic -Wextra -Wshadow -Wconversion  -g -std=c++17 -Iinclude -c src/diaAnio.cpp  -o src/diaAnio.o
+ 
+g++ -Wall -Wextra  -pedantic -Wextra -Wshadow -Wconversion  -g -std=c++17 -Iinclude -c src/main.cpp  -o src/main.o
+g++ -Wall -Wextra  -pedantic -Wextra -Wshadow -Wconversion  -g -std=c++17 -Iinclude -o output\main.exe src/diaAnio.o src/main.o  -Llib
+echo Executing 'all' complete!
+make: Leaving directory 'e:/Documents/Senioritty/Programacion/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/13 Clases/calendario'
+ 

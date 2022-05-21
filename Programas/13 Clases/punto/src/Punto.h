@@ -6,8 +6,7 @@
 class Punto // Declaramos la clase Punto, las clases van en mayuscula y en simngular
 {
     //Atributos: Las clases tienen atributos.
-    // private y public son modificadores de acceso.  Hay un tercer modificador de acceso que se llama protected y que permite 
-    //   a los "hijos" de una clase acceder a los atributos o metodos definidos así.  
+    // private y public son modificadores de acceso
     private: // Solo miembros de esta clase pueden acceder a los atributos, NINGUNA otra clase puede acceder
         int x,y;  // Las coordenadas del punto son sus atributos
     

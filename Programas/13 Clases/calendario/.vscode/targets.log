@@ -1,0 +1,385 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sat May 21 21:58:32 2022
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+SYSTEMDRIVE = C:
+# makefile (from 'Makefile', line 19)
+OUTPUT := output
+# environment
+LC_ALL = C
+# makefile (from 'Makefile', line 22)
+SRC := src
+# environment
+USERPROFILE = C:\Users\ampin
+# makefile (from 'Makefile', line 37)
+MD := mkdir
+# environment
+LOCALAPPDATA = C:\Users\ampin\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-feb8e73 
+8-0ead-425f-a4b4-12ffca03fe48-sock
+# environment
+VSCODE_CWD = C:\Users\ampin\AppData\Local\Programs\Microsoft VS Code
+# environment
+SYSTEMROOT = C:\Windows
+# makefile (from 'Makefile', line 52)
+LIBS := -Llib
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_9964_BXWQXJEQXKJFJGWF
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\ampin\AppData\Roaming\Code\CachedData\c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\ampin\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\Users\ampin\OneDrive
+# makefile
+CURDIR := e:/Documents/Senioritty/Programacion/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/13 Clases/calendario
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# makefile (from 'Makefile', line 66)
+OUTPUTMAIN := output\main.exe
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 9964
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# makefile (from 'Makefile', line 49)
+INCLUDES := -Iinclude
+# automatic
+*F = $(notdir $*)
+# makefile (from 'Makefile', line 28)
+LIB := lib
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# makefile (from 'Makefile', line 25)
+INCLUDE := include
+# default
+MAKE_HOST := Windows32
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\ampin
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# environment
+WINDIR = C:\Windows
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Embarcadero\Studio\21.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\21.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\21.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\21.0\Bpl\Win64;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\msys64\mingw64\bin;C:\Users\ampin\AppData\Local\Microsoft\WindowsApps;C:\Users\ampin\AppData\Local\GitHubDesktop\bin;C:\Users\ampin\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\mingw64\bin;
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+COMPUTERNAME = FREDI-LENOVO
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# makefile (from 'Makefile', line 31)
+MAIN := main.exe
+# makefile (from 'Makefile', line 34)
+LIBDIRS := lib
+# environment
+LOGONSERVER = \\FREDI-LENOVO
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = ampin
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# makefile (from 'Makefile', line 33)
+INCLUDEDIRS := include
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# makefile (from 'Makefile', line 58)
+OBJECTS := src/diaAnio.o src/main.o
+# environment
+USERDOMAIN = FREDI-LENOVO
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# makefile
+.DEFAULT_GOAL := all
+# makefile (from 'Makefile', line 36)
+RM := del /q /f
+# default
+MAKE_VERSION := 4.3
+# makefile (from 'Makefile', line 35)
+FIXPATH = $(subst /,\,$1)
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = FREDI-LENOVO
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+PUBLIC = C:\Users\Public
+# makefile (from 'Makefile', line 32)
+SOURCEDIRS := src
+# environment
+APPDATA = C:\Users\ampin\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\ampin\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\85aa1e155ed123fd99b5e6e13ebfe654-1.67.2-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# makefile (from 'Makefile', line 11)
+CXXFLAGS := -Wall -Wextra  -pedantic -Wextra -Wshadow -Wconversion  -g -std=c++17
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+PROCESSOR_REVISION = 8c01
+# makefile (from 'Makefile', line 7)
+CXX = g++
+# makefile (from 'Makefile', line 16)
+LFLAGS = 
+# makefile (from 'Makefile', line 55)
+SOURCES := src/diaAnio.cpp src/main.cpp
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+# variable set hash-table stats:
+# Load=113/1024=11%, Rehash=0, Collisions=17/167=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# src (key e:/Documents/Senioritty/Programacion/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/13 Clases/calendario/src, mtime 1653167324): 7 files, no impossibilities.
+# . (key e:/Documents/Senioritty/Programacion/Fundamentos de Programaci�n - Aprende a programar desde cero/Diapositivas del curso/13 Aprende Programaci�n en C++/Programas/13 Clases/calendario, mtime 1653159332): 8 files, no impossibilities.
+
+# 15 files, no impossibilities in 2 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+main.exe: src/diaAnio.o src/main.o
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := main.exe
+# automatic
+# * := 
+# automatic
+# < := src/diaAnio.o
+# automatic
+# + := src/diaAnio.o src/main.o
+# automatic
+# % := 
+# automatic
+# ^ := src/diaAnio.o src/main.o
+# automatic
+# ? := src/diaAnio.o src/main.o
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=4/18=22%
+#  recipe to execute (from 'Makefile', line 75):
+	$(CXX) $(CXXFLAGS) $(INCLUDES) -o $(OUTPUTMAIN) $(OBJECTS) $(LFLAGS) $(LIBS)
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-20 20:09:20
+#  File has been updated.
+#  Successfully updated.
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 86):
+	$(RM) $(OUTPUTMAIN)
+	$(RM) $(call FIXPATH,$(OBJECTS))
+	@echo Cleanup complete!
+
+.cpp.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 82):
+	$(CXX) $(CXXFLAGS) $(INCLUDES) -c $<  -o $@
+
+# Not a target:
+src/main.o:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-21 18:08:44
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/diaAnio.o:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-21 17:52:10
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+output:
+#  Implicit rule search has not been done.
+#  Last modified 2022-05-21 18:08:44
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 72):
+	$(MD) $(OUTPUT)
+
+all: output main.exe
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/10=0%
+#  recipe to execute (from 'Makefile', line 69):
+	@echo Executing 'all' complete!
+
+run: all
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 91):
+	./$(OUTPUTMAIN)
+	@echo Executing 'run: all' complete!
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+.PHONY: clean
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=12/1024=1%, Rehash=0, Collisions=0/33=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 23 / storage = 174 B / avg = 7 B
+# current buf: size = 8162 B / used = 174 B / count = 23 / avg = 7 B
+
+# strcache performance: lookups = 44 / hit rate = 47%
+# hash-table stats:
+# Load=23/8192=0%, Rehash=0, Collisions=0/44=0%
+# Finished Make data base on Sat May 21 21:58:32 2022
+
+ 
